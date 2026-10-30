@@ -978,7 +978,7 @@ Speed refers to the time taken by an AI chatbot to understand a prompt and gener
 - Google Gemini: Often provides quick responses, particularly for straightforward questions. Its response time also depends on the selected model and task complexity.
 Comparison: Both chatbots offer fast response generation. Gemini may be quicker for certain simple tasks, while ChatGPT's response time can vary depending on the complexity of the requested answer.
 
-Conclusion
+#Conclusion
 Through this assignment, I gained a better understanding of Generative AI and its role in modern technology. I also learned about different AI architectures, their applications, and the importance of scaling in LLMs. By comparing the responses from ChatGPT and Google Gemini, I was able to observe differences in their accuracy, creativity, reasoning, response speed, and handling of information. This helped me understand the capabilities and limitations of different Generative AI tools.
 
 # Result
